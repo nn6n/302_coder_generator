@@ -11,7 +11,7 @@
     "format:fix": "prettier --write --ignore-path .gitignore ."
   },
   "dependencies": {
-    "@ai-sdk/openai": "^0.0.62",
+    "@ai-sdk/openai": "^0.0.72",
     "@codemirror/state": "^6.4.1",
     "@codemirror/view": "^6.34.1",
     "@codesandbox/sandpack-react": "^2.19.8",
