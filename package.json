@@ -30,7 +30,7 @@
     "@uiw/react-codemirror": "^4.23.3",
     "accept-language": "^3.0.20",
     "ahooks": "^3.8.1",
-    "ai": "^3.4.5",
+    "ai": "^5.0.52",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "dedent": "^1.5.3",
